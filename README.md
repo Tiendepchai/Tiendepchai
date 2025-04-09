@@ -8,7 +8,7 @@
  
  🌱 I’m currently learning **VLU**
 
-💬 Ask me about **Computer Vision and NLP**
+💬 Ask me about **NLP**
 
 
  </div>
