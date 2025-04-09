@@ -6,11 +6,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **...**
- 
- 🌱 I’m currently learning **...**
+ 🌱 I’m currently learning **VLU**
 
-💬 Ask me about **...**
+💬 Ask me about **Computer Vision and NLP**
 
 
  </div>
