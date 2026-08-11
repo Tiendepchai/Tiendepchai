@@ -1,21 +1,34 @@
-```text
-       .---.        nguyencgtien@github
-      /     \       -------------------
-      \.@-@./       OS: Linux / Ubuntu
-      /`\_/`\       Role: AI Engineer
-     //  _  \\      Focus: LLM • RAG • AI Infra
-    | \     )|_     Stack: Python • PyTorch • vLLM
-   /`\_`>  <_/ \    Infra: Docker • Linux • CUDA
-   \__/'---'\__/    Interests: Serving • Retrieval • DevOps
-```
+<pre>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    tien@github
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    -----------
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    OS:        Arch Linux
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    Host:      GitHub
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡘⢿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    Role:      AI & UAV Researcher
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣶⣽⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀    Research:  DSP, AI, Autonomous Systems
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀    AI:        LLM, RAG, Signal Processing
+⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀    UAV:       Flight Control, ArduPilot, STM32
+⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⠿⠿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀    Languages: Python, C++, Rust
+⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⡟⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀    ML:        PyTorch, Transformers, vLLM
+⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀    Infra:     Linux, Docker, CUDA
+⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⡷⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣷⣽⣛⠀⠀⠀⠀    Shell:     zsh
+⠀⠀⢠⣿⣿⣿⣿⣿⣿⠿⠛⠛⠀⠀⠀⠀⠀⠀⠛⠛⠿⣿⣿⣿⣿⣿⣶⡄⠀⠀    Editor:    Neovim
+⠀⢰⣿⣿⠿⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠛⠿⣿⣿⡆⠀    Status:    Researching & Building
+⡰⠟⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⢆    Uptime:    <!-- UPTIME:START -->8210d 11h<!-- UPTIME:END -->
 
-```bash
-$ whoami
+
+╭─ ~
+╰─ ❯ whoami
 Nguyễn Công Tiến
 
-$ cat focus.txt
-LLM / RAG / AI Infrastructure
+╭─ ~
+╰─ ❯ cat /etc/research
+AI · Digital Signal Processing · Autonomous UAV Systems
 
-$ echo $STATUS
-Building AI systems from model to production.
-```
+╭─ ~
+╰─ ❯ cat /proc/interests
+LLM · RAG · DSP · Flight Control · Embedded Systems · AI Infrastructure
+
+╭─ ~
+╰─ ❯ echo $STATUS
+researching · building · flying
+</pre>
